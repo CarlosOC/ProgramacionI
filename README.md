@@ -8,7 +8,7 @@ Este repositorio contiene una colección de ejercicios diseñados para acompaña
 
 ## Estructura del Repositorio
 
-El repositorio está organizado en carpetas, cada una correspondiente a una temática específica o a una sesión de clases. Dentro de cada carpeta encontrarás los archivos fuente de los ejercicios, acompañados de instrucciones detalladas en algunos casos.
+El repositorio está organizado en carpetas, en la carpeta `Clases` estan las presentaciones en formato PDF con los temas dictados en las diferentes clases dictadas.
 
 ## Cómo Usar este Repositorio
 
@@ -16,7 +16,7 @@ Puedes clonar este repositorio en tu máquina local utilizando el siguiente coma
 
 git clone https://github.com/CarlosOC/ProgramacionI.git
 
-Una vez clonado, puedes explorar las diferentes carpetas y ejercicios. Te recomiendo comenzar por la carpeta `Introduccion` y avanzar progresivamente a medida que te sientas más cómodo con los conceptos.
+Una vez clonado, puedes explorar las diferentes carpetas y ejercicios. Te recomiendo comenzar por la carpeta `Clases` y avanzar progresivamente a medida que te sientas más cómodo con los conceptos.
 
 ## Contribuciones
 
