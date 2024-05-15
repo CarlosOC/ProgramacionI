@@ -8,7 +8,7 @@ Este repositorio contiene una colección de ejercicios diseñados para acompaña
 
 ## Acerca del Docente
 
-¡Hola! Soy [Tu Nombre], docente de la cátedra de Programación I en la UTN FRLR. Con una sólida experiencia en desarrollo de software y enseñanza, estoy aquí para guiarte en tu aprendizaje de la programación en C. Si tienes alguna pregunta sobre los ejercicios o necesitas ayuda, no dudes en contactarme.
+¡Hola! Soy Carlos, docente de la cátedra de Programación I en la UTN FRLR. Con una sólida experiencia en desarrollo de software y enseñanza, estoy aquí para guiarte en tu aprendizaje de la programación en C. Si tienes alguna pregunta sobre los ejercicios o necesitas ayuda, no dudes en contactarme.
 
 ## Estructura del Repositorio
 
