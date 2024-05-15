@@ -4,10 +4,10 @@ Este repositorio contiene diapositivas de clases sobre diversos temas. A continu
 ## Clase 1
 - **Introducción a la Catedra**: Presentación de la Materia.
 - **Hola Mundo**: Primer programa en lenguaje C.
-- **Conociendo a Printf**: Introducción a la función printf
+- **Conociendo a Printf**: Introducción a la función printf.
 ## Clase 2:
-- **Variables**: Declaración de variables, tipos de datos básicos y operadores..
-- **Conociendo a Scanf**: Introducción a la función scanf
+- **Variables**: Declaración de variables, tipos de datos básicos y operadores.
+- **Conociendo a Scanf**: Introducción a la función scanf.
 ## Clase 3:
 - **Condicionales**: Estructuras Condicionales [IF | IF/ELSE | SWITCH]
 - **Bucles**: Estructuras Cíclicas [While | Do While | For].
