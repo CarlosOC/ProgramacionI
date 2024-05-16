@@ -1,4 +1,4 @@
-Carpeta de Clases
+# Carpeta de Clases
 Este repositorio contiene diapositivas de clases sobre diversos temas. A continuación, se detalla el contenido de cada archivo de diapositivas.
 
 ## 
