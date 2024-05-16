@@ -25,3 +25,15 @@ Este repositorio contiene diapositivas de clases sobre diversos temas. A continu
 **CLASE 06**
 - **Rand ( )**: Empleo de la función Rand.
 ## 
+**CLASE 07**
+ 
+## 
+**CLASE 08**
+ 
+## 
+**CLASE 09**
+ 
+## 
+**CLASE 10**
+ 
+## 
